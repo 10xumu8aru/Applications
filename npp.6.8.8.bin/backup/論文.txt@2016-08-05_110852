@@ -1,0 +1,67 @@
+ :Ira D. Baxter, et al., Clone Detection Using Abstract Syntax Trees, ICSM’98, pp.368-377, 1998
+ //Iulian Neamtiu, et al., Understanding Source Code Evolution Using Abstract Syntax Tree Matching, MSR'05, pp.1-5, 2005
+  Bryan Ford, Parsing expression grammars: a recognition-based syntactic foundation, Proceedings of the 31st ACM SIGPLAN-SIGACT symposium on Principles of programming languages (POPL'04), pp.111-112, 2004.
+   Petre, Marian. UML in practice. 35th International Conference on Software Engineering (ICSE 2013), 18-26 May 2013, pp. 722?731, 2013. 抜粋 http://neverworkintheory.org/2013/06/13/uml-in-practice-2.html
+   
+ Jacky Estublier, Software configuration management: a roadmap, Proceeding ICSE '00, Future of Software Engineering Track, pp. 279-289, 2000
+    :Tom Mens, A State-of-the-Art Survey on Software Merging, IEEE TSE vol.28, no.5, pp.449-462, 2002.
+   :Hideaki Hata, et al., Bug Prediction Based on Fine-Grained Module Histories, ICSE '12, pp.200-210, 2012.
+    //正木 仁ら, OSS 開発における不具合割当てパターンに着目した不具合修正時間の予測, 情報処理学会論文誌 Vol.54 No.2 933?944 (Feb. 2013)
+:A. Ying et al., Predicting source code changes by mining change history, IEEE Transactions on Software Engineering, vol.30, no.9, pp.574-586, 2004.
+:J.Jones, et al., Visualization of Test Information to Assist Fault Localization,ICSE '02, pp. 467-477, 2002
+:Camille Bell, Automate Debugging with git bisect, taken from http://www.slideshare.net/Camille_Bell/automate-debugging-with-git-bisect
+
+ ?a:Romain Brixtel, et al., Language-Independent Clone Detection Applied to Plagiarism Detection, SCAM 2010, pp. 77-86, 2010
+ !!!!!!!!!!!!!!!!!!!!!!!!!!Michel Chilowicz, et al., Syntax tree fingerprinting for source code similarity detection, ICPC 2009, pp. 243-247, 2009
+  ?a:Atif Memon, et al., Coverage criteria for GUI testing, ESEC-FSE 2001, pp 56?267, 2001
+  :Masatomo Hashimoto, Akira Mori, Diff/TS: A Tool for Fine-Grained Structural Change Analysis, 15th Working Conference on Reverse Engineering, pp.279-288, 2008.
+   :Dongsun Kim, et al, Automatic Patch Generation Learned from Human-Written Patches, ICSE 2013, pp. 802-811, 2013
+    :T. Zimmermann, et al., Mining Version Histories to Guide Software Changes, ICSE 2004, pp. 563-572, 2004
+	 
+ :Masatomo Hashimoto, Akira Mori, Diff/TS: A Tool for Fine-Grained Structural Change Analysis, 15th Working Conference on Reverse Engineering, pp.279-288, 2008.
+:Dongsun Kim, et al, Automatic Patch Generation Learned from Human-Written Patches, ICSE 2013, pp. 802-811, 2013
+ :A. Lozano, et al., Evaluating the harmfulness of cloning: a change based experime, 5th International Workshop on Mining Software Repositories (MSR2007), pp.18-21, 2007.
+:G. Canfora, L. Cerulo, Impact Analysis by Mining Software and Change Request Repositories, 11th IEEE International Software Metrics Symposium (METRICS2005), pp.9-29
+:D. Matter, et al, Assigning Bug Reports using a Vocabulary-Based Expertise Model of Developers, 6th IEEE International Working Conference on Mining Software Repositories (MSR2009), pp.131-140, 2009.
+
+  :Mark Weiser, Program Slicing IEEE TSE, vol. se-10, no.4, 1984
+  :Yoshiki Higo, et al., Incremental Code Clone Detection: A PDG-based Approach, 18th Working Conference on Reverse Engineering, pp.3-12, 2011
+:Stephan Arlt, et al., Reducing GUI Test Suites via Program Slicing, the 2014 International Symposium on Software Testing and Analysis (ISSTA 2014), pp.270-281, 2014
+ :David Binkley, Mark Harman, A Large-Scale Empirical Study of Forward and Backward Static Slice Size and Context Sensitivity, International Conference on Software Maintenance(ICSM 2003), pp.44-53, 2003 
+ 
+  :Mithun Acharya, Brian Robinson, Practical change impact analysis based on static program slicing for industrial software systems, 33rd International Conference on Software Engineering (ICSE2011), pp.46-755, 2011
+   :Shawn A. Bohner, Extending Software Change Impact Analysis into COTS Components, 27th Annual NASA Goddard/IEEE Software Engineering Workshop, pp.175-182, 2002
+    :Xiaoxia Ren, et al., Chianti: A Tool for Change Impact Analysis of Java Programs, 19th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications(OOPSLA2004), pp.432-448, 2004
+	 :L.C. Briand, et al., Automated impact analysis of UML models, International Conference on Software Maintenance (ICSM2006), pp.256-265, 2006
+	  :Keith Brian Gallagher, James R. Lyle, Using Program Slicing In Software Maintenance, IEEE Transactions on Software Engineering vol. 17, no. 8, pp.751-761, 1991
+	   :Jane Cleland-Huang, et al., Goal-Centric Traceability for Managing Non-Functional Requirements, 27th international conference on Software engineering (ICSE 2005), pp.362-371, 2005
+	    
+
+:Ana Milanova, et al., Precise Call Graph Construction in the Presence of Function Pointers, Proc. 2nd IEEE International Workshop on Source Code Analysis and Manipulation(SCAM2002), pp. 155-162, 2002
+ :Ben Hardekopf, Calvin Lin, Flow-sensitive pointer analysis for millions of lines of code, 9th IEEE/ACM International Symposium on Code Generation and Optimization (CGO), pp.289-298, 2011
+
+ //Alessandro Orso, et al, Isolating Relevant Component Interactions with JINSI, the 2006 international workshop on Dynamic systems analysis (WODA 2006), pp.3-10, 2006
+     :C. Hofer, M. Denker, S. Ducasse, Design and Implementation of a backward-in-time debugger, NODE 2006, Lecture Notes in Informatics, vol. p-88, pp. 17-32, 2006
+   :Sudheendra Hangal, Monica S. Lam, Tracking down software bugs using automatic anomaly detection, 24th International Conference on Software Engineering (ICSE '02), pp. 291-301
+  :Martin Dimitrov and Huiyang Zhou, Anomaly-Based Bug Prediction, Isolation, and Validation: An Automated Approach for Software Debugging, the 14th international conference on Architectural support for programming languages and operating systems (ASPLOS2009), pp. 61-72, 2009
+  :Neelam Gupta, et al., Locating Faulty Code Using Failure-Inducing Chops, 20th IEEE/ACM international Conference on Automated software engineering (ASE '05). pp. 263-272
+  
+  
+    ://Takashi Ishio, et al., Aspect-Oriented Modularization of Assertion Crosscutting Objects, 12th Asia-Pacific Software Engineering Conference (APSEC'05), pp.744-751, 2005
+	  :Florian Benz, et al., A Dynamic Program Analysis to Find Floating-Point Accuracy Problems, 33rd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2012), pp.453-462, 2012
+	 	  :Brian Hackett and Shu-yu Guo, Fast and Precise Hybrid Type Inference for JavaScript, 33rd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2012), pp. 239-250, 2012
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!Kunrong Chen and Vaclav Rajlich, 8th International Workshop on Program Comprehension (IWPC 2000), pp. 241-247, 2000
+  :Thomas Eisenbarth, et al., Locating Features in Source Code, IEEE Transactions on Software Engineering, vol. 29, issue 3, pp.210-224, 2003
+   //鈴木 治, 室伏 俊明, 形式概念分析 一入門・支援ソフト・応用一, 知能と情報（日本知能情報ファジィ学会誌）, vol．19， no．2， pp．103?142, 2007
+   :Andrew D. Eisenberg and Kris De Volder, Dynamic Feature Traces: Finding Features in Unfamiliar Code, 21st IEEE International Conference on Software Maintenance (ICSM 2005), pp.337-346, 2005
+   
+ :Atanas Rountev, et al., Points-to Analysis for Java Using Annotated Constraints, the 2001 Object-Oriented Programming Systems, Languages and Applications (OOPSLA 2001), pp. 43?55, 2001.
+     :Jonathan Bell　and Gail Kaiser, Phosphor: Illuminating Dynamic Data Flow in Commodity JVMs, the 2014 ACM International Conference on Object Oriented Programming Systems Languages & Applications, pp. 83-101
+  :Shiyi Wei and Barbara G. Ryder, Practical Blended Taint Analysis for JavaScript, the 2013 International Symposium on Software Testing and Analysis (ISSTA 2013), pp. 336-346, 2013
+   :Yu Feng, et al., Apposcopy: Semantics-Based Detection of Android Malware through Static Analysis, the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE 2014), pp. 576-587, 2014
+   
+    :James C. King, Symbolic Execution and Program Testing, Communications of the ACM, vol. 19, issue 7, pp. 385-394, 1976
+	 :Cristian Cader and Koushik Sen, Symbolic execution for software testing: three decades later, Communications of the ACM, vol. 56, issue 2, pp. 82-90, 2013
+	  	  :Koushik Sen, Darko Marinov, Gul Agha, CUTE: A Concolic Unit Testing Engine for C
+!!!!!!!!!!!!!!!!!!!!!!!!!1Xiao Qu and Brian Robinson, A Case Study of Concolic Testing Tools and their Limitations, International Symposium on Empirical Software Engineering and Measurement, pp.22-23, 2011
